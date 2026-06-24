@@ -1,0 +1,8 @@
+{
+  "domain": "solarman",
+  "name": "Solarman Smart Inverter",
+  "version": "1.5.0", 
+  "documentation": "https://github.com/mariorodvenUS/solarman-forkl",
+  "requirements": [],
+  "codeowners": []
+}
